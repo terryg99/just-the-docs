@@ -1,3 +1,12 @@
+---
+layout: default
+title: Code Fence
+nav_enabled: true
+---
+
+
+
+
 ## This is my third document
 
 ### This is an example of a code fence
