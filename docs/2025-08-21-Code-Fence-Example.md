@@ -2,6 +2,7 @@
 layout: default
 title: Code Fence
 nav_enabled: true
+nav_order: 2
 ---
 
 
