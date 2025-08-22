@@ -1,12 +1,7 @@
 ---
-title: "Using Typora to create markdown files"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - Web Development
-  - Programming
-  - Utilities
+layout: default
+title: Typora
+nav_enabled: true
 ---
 
 #### TL;DR
