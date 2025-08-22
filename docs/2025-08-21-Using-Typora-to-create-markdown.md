@@ -6,7 +6,7 @@ nav_enabled: true
 
 #### TL;DR
 
-Typora is a macOS utility that can be used to create and render markdown files. It "plays nice" with GitHub, allowing the markdown pages to be deployed on the web using GitHub Pages.
+Typora is a macOS utility that can be used to create and render markdown files. It "plays nice" with GitHub, allowing the markdown pages to be deployed on the web using GitHub Pages.  
 
 #### Introduction
 
