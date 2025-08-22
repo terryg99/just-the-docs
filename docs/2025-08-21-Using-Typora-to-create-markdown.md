@@ -2,6 +2,7 @@
 layout: default
 title: Typora
 nav_enabled: true
+nav_order: 1
 ---
 
 #### TL;DR
